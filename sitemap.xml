@@ -9,14 +9,14 @@
 </url>
 <!-- Расписание -->
 <url>
-<loc>https://student.example.comschedule</loc>
+<loc>https://student.example.com/schedule</loc>
 <lastmod>2026-10-28</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.9</priority>
 </url>
 <!-- Новости -->
 <url>
-<loc>https://student.example.comnews</loc>
+<loc>https://student.example.com/news</loc>
 <lastmod>2026-10-28</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
@@ -30,21 +30,21 @@
 </url>
 <!-- Специальности -->
 <url>
-<loc>https://student.example.comspecialties</loc>
+<loc>https://student.example.com/specialties</loc>
 <lastmod>2026-10-28</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 <!-- Сведения -->
 <url>
-<loc>https://student.example.comabout</loc>
+<loc>https://student.example.com/about</loc>
 <lastmod>2026-10-28</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 <!-- Контакты -->
 <url>
-<loc>https://student.example.comcontacts</loc>
+<loc>https://student.example.com/contacts</loc>
 <lastmod>2026-10-28</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.4</priority>
